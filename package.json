@@ -1,0 +1,38 @@
+{
+  "name": "grunt-webdriver-protractor",
+  "description": "A simple grunt plugin that starts webdriver, runs protractor tests and stops webdriver",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Velan/grunt-webdriver-protractor",
+  "author": {
+    "name": "Velan Vijatovic",
+    "email": "velanvijatovic@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Velan/grunt-webdriver-protractor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Velan/grunt-webdriver-protractor/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/Velan/grunt-webdriver-protractor/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.2"
+  },
+  "keywords": [
+    "gruntplugin"
+  ]
+}
