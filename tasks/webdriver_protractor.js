@@ -96,7 +96,7 @@ module.exports = function( grunt ) {
   gruntRef = grunt;
 
   grunt.registerTask(
-    'protractor',
+    'webdriver-protractor',
     'A simple grunt plugin that starts webdriver, runs protractor tests and stops webdriver', function() {
 
       complete = this.async();
