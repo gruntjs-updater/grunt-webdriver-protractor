@@ -1,7 +1,7 @@
 {
   "name": "grunt-webdriver-protractor",
   "description": "A simple grunt plugin that starts webdriver, runs protractor tests and stops webdriver",
-  "version": "0.0.2",
+  "version": "0.0.2a",
   "homepage": "https://github.com/Velan/grunt-webdriver-protractor",
   "author": {
     "name": "Velan Vijatovic",

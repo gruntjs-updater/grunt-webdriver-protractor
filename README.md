@@ -11,7 +11,7 @@ This plugin requires Grunt `~0.4.2`
 If you haven't used [Grunt](http://gruntjs.com/) before, be sure to check out the [Getting Started](http://gruntjs.com/getting-started) guide, as it explains how to create a [Gruntfile](http://gruntjs.com/sample-gruntfile) as well as install and use Grunt plugins. Once you're familiar with that process, you may install this plugin with this command:
 
 ```shell
-npm install webdriver-protractor --save-dev
+npm install grunt-webdriver-protractor --save-dev
 ```
 
 ### Prerequisites
@@ -39,6 +39,7 @@ That's all there is. I'll add other Protractor options, or alternative ways to s
 If you have any issue using this plugin, you can run grunt `webdriver-protractor -debug` to get more informations on what went wrong.
 
 ## Release History
+- 0.0.2 Documentation
 - 0.0.1 Initial release
 
 ## Known issues
