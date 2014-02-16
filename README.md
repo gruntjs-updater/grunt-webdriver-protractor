@@ -38,7 +38,13 @@ That's all there is. I'll add other Protractor options, or alternative ways to s
 
 If you have any issue using this plugin, you can run grunt `webdriver-protractor -debug` to get more informations on what went wrong.
 
+## Test
+
+    grunt
+Runs grunt-jshint and grunt-webdriver-protractor
+
 ## Release History
+- 0.0.3 Added a test exemple, bugfix
 - 0.0.2 Documentation
 - 0.0.1 Initial release
 
